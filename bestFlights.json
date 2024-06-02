@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "name": "Boracay",
+            "country": "Philipines",
+            "duration": "5D4N",
+            "imageUrl": "https://media.traveler.es/photos/61376c1232d932c80fcb8e24/16:9/w_2000,h_1125,c_limit/146705.jpg"
+        },
+        {
+            "name": "Baros",
+            "country": "Maldives",
+            "duration": "7D6N",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ucx6LqNcLM0K88GE7OEYtqf2hrLXdwciaA&s"
+        },
+        {
+            "name": "Bali",
+            "country": "Indonesia",
+            "duration": "3D2N",
+            "imageUrl": "https://i0.wp.com/elplanetaurbano.com/wp-content/uploads/2023/07/Cordoba.jpg?fit=1620%2C964&ssl=1"
+        },
+        {
+            "name": "Palawan",
+            "country": "Philipines",
+            "duration": "3D2N",
+            "imageUrl": "https://www.civitatis.com/f/brasil/rio-de-janeiro/tour-cristo-redentor-tren-589x392.jpg"
+        }
+    ]
+}

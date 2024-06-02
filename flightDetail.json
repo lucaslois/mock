@@ -1,0 +1,14 @@
+{
+    "data": {
+    "destination": "Boracay",
+    "duration": "5D4N",
+    "country": "Philippines",
+    "price": "$349",
+    "description": "Spend 5 days and 4 nights in one of the best islands in the world! Bask in the sun while walking in the white sand beach and enjoy the night partying at the popular seaside bars.",
+    "images": [
+        "https://woolafilipinas.com/wp-content/uploads/2017/08/boracay5-477x322.jpg",
+        "https://images.unsplash.com/photo-1542213493895-edf5b94f5a96?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Ym9yYWNheXxlbnwwfHwwfHx8MA%3D%3D",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS774PdWghps760qZ2PbJwdw6RXGIX5tCsQf93KvKFrylKy6I7F"
+    ]
+    }
+}
